@@ -11,7 +11,7 @@ public class FirstprojectwithaswApplication {
 
 	@GetMapping("/")
 	 public String home() {
-		 return "good job your project is added successfully in some changed d aws ";
+		 return "good job your project is added successfu";
 	 }
 	public static void main(String[] args) {
 		SpringApplication.run(FirstprojectwithaswApplication.class, args);
