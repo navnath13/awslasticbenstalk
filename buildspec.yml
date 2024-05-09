@@ -9,5 +9,5 @@ phases:
    - echo Build completed successfully
 artifacts:
  files:
-   - '**/*'
+  - target/simple-project.jar
  discard-paths: yes
